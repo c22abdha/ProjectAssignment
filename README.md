@@ -197,5 +197,5 @@ public class Country {
 }
 ```
 
-![](Screenshot_20230523_152955.png)
-![](Screenshot_20230523_153018.png)
+![](Screenshot_20230525_110642.png)
+![](Screenshot_20230525_111100.png)
